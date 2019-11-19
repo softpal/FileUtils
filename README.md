@@ -9,7 +9,7 @@
 
 **Features**
 
-Get Path of the file by passing uri
+Get Path of the File by passing URI
 
 
 ## Installation
